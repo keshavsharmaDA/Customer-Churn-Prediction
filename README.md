@@ -20,8 +20,3 @@ This project aims to predict customer churn for a subscription-based company. By
 - Achieved an AUC score of **0.85**
 - Identified top churn indicators such as tenure and payment method
 - Provided retention strategy recommendations that could reduce churn by ~18%
-
-## 📂 Files
-- `churn_prediction.ipynb` – Python code
-- `churn_data.csv` – Dataset
-- `SQL_queries.sql` – SQL scripts for data extraction
